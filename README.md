@@ -1,6 +1,6 @@
 <h2> E-book Project </h2>
 
-<h3>The aim of the rpoject</h3>
+<h3>The aim of the project</h3>
 
 It is a connection between the book fans and reading websites.
 
